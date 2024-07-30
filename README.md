@@ -2,8 +2,8 @@
 <h3 align="center">Here is where I record myself. 👨‍💻</h3>
 
 - 🎯 I'm focusing on:
-    Win32 development in high-quality.
-    Windows NT security technologies and Enterprise security, such as EDR, DLP, ZTNA, ...
+    - 💪 Win32 development in high-quality. 
+    - 🔐 Windows NT security technologies and Enterprise security, such as EDR, DLP, ZTNA, ...
     
 - 🌱 I’m currently learning **everything 🤣**
 
